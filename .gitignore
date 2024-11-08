@@ -1,0 +1,34 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos de Credenciais e Tokens
+credentials.json
+token.json
+
+# Arquivos de Python Compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de Logs
+*.log
+logs/
+
+# Arquivos Temporários do Sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Arquivos de Cache do Pip
+pip-wheel-metadata/
+*.egg-info/
+.cache/
+
+# Arquivos de Depuração
+debug.log
